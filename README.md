@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align='center'>
+  <h1 align='center'>Hola, soy <i>Javier Ariza</i> 👋</h1>
+</div>
 
 <!--
 **javierArMuz/javierArMuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
